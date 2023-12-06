@@ -1,0 +1,10 @@
+main{
+    display: flex;
+}
+#posts{
+    flex: 2;
+    background-color: aqua;
+}
+#sideContent{
+    flex: 1;
+}
