@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# İleri Web Tasarımı 2023 Güz Dönemi Ders Projesidir.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
