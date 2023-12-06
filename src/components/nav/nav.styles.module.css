@@ -1,0 +1,16 @@
+nav ul {
+    display: flex;
+    background-color: #333;
+    justify-content: center;
+}
+nav ul li a{
+    color:#f4bd01;
+    padding: 20px;
+    display: block;
+    transition: ease-out 0.3s;
+}
+
+nav ul li a:hover{
+    color: #f1f1f1;
+    padding-left: 30px;
+}
