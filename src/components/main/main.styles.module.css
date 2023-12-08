@@ -2,7 +2,7 @@ main{
     display: flex;
 }
 #posts{
-    flex: 2;
+    flex: 3;
     background-color: aqua;
 }
 #sideContent{
