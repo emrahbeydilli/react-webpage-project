@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import "./post.styles.module.css";
+import "./posts.styles.module.css";
 
 const Posts = () => {
     return ( 

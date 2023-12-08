@@ -1,4 +1,4 @@
-import Posts from "./posts/post.component";
+import Posts from "./posts/posts.component";
 import SideContent from "./side-content/side-content.component";
 import styles from "./main.styles.module.css";
 
