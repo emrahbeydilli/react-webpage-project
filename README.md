@@ -1,4 +1,4 @@
-# İleri Web Tasarımı 2023 Güz Dönemi Ders Projesidir.
+# React Webpage Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
